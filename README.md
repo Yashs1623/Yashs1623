@@ -9,14 +9,14 @@
 Yashs1623/Yashs1623 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- -->
+
  
  <!-- <img src="https://img-c.udemycdn.com/redactor/raw/2020-10-10_10-32-20-69d03d986e3001cfb40c457eede13a58.jpg" height=200 width=250> -->
 <div style="background-color:grey">
 <h1 align="center">Hey, I'm Yash Shah</h1>
 <h3 align="center">Activities</h3>
 
-<img width=40% align="right" src="https://img.freepik.com/free-vector/colourful-illustration-programmer-working_23-2148281410.jpg?size=338&ext=jpg">
+<img width=40% align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/programming-skills-1946874-1649524.png">
 <br>
 <br>
   
